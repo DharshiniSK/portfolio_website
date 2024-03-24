@@ -6,7 +6,7 @@ export default function Resume(){
         </div>
         <div className='md:w-1/2 flex justify-center'>
             <div className='flex flex-col m-9 text-white justify-center'>
-                <h1 className='text-3xl text-indigo-800 mb-6 font-heroine-font '>You can view my resume</h1>
+                <h1 className='text-3xl text-indigo-800 mb-6  font-heroine-font '>You can view my resume</h1>
           
            
             <button className='rounded-lg'> <a className='btn' href='#'> View</a> </button>
